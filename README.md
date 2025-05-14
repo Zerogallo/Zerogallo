@@ -53,7 +53,14 @@
 
 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Zerogallo&show_icons=true&theme=transparent" /></div>  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zerogallo&show_icons=true&theme=transparent" />
+
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerogallo&size_weight=0.5&count_weight=0.5&theme=transparent" />
+
+  
+</p>  
 
 
 
