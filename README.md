@@ -1,3 +1,7 @@
+
+  
+
+
 ### <div align="center">💻 Desenvolvedor Front-End | Transformando ideias em código</div>  
 
 # Renan (ZeroGallo) | Desenvolvedor Front-End
@@ -35,12 +39,16 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerogallo&size_weight=0.5&count_weight=0.5&theme=transparent" />
 
+
+
   
 </p>  
 
-
-
-
+<p align="center">
+  <img src="https://profile-readme-generator.com/assets/pacman.svg" />
+ <img src="https://profile-readme-generator.com/assets/snake.svg" />
+  
+</p>  
 
 
 
