@@ -19,7 +19,8 @@
 </div>
 
 ## Projetos  
-- [Portfólio](https://zerogallo.github.io/portfolio/)  
+![Preview do Relógio](https://github.com/Zerogallo/NovoPortf-lio/blob/main/public/cad.PNG)
+- [Portfólio](https://zerogallo.github.io/NovoPortf-lio/)  
 - [Repositórios GitHub](https://github.com/Zerogallo)
 
 <div align="center">
