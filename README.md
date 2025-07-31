@@ -2,10 +2,9 @@
   
 
 
-### <div align="center">💻 Desenvolvedor Front-End | Transformando ideias em código</div>  
+### <div align="center">💻 | Desenvolvedor Full-Stack | Desenvolvedor Back-End | Desenvolvedor Front-End </div>  
 
-# Renan (ZeroGallo) | Desenvolvedor Front-End
-
+# Renan (ZeroGallo) | Transformando ideias em código
 - 🎓 Cursando Ciência da Computação  
 - 💼 Buscando oportunidades em desenvolvimento web  
 - 📫 Contato: (21) 97274-5455 | renan.grenslist@gmail.com  
