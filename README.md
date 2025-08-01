@@ -14,7 +14,7 @@
 - Versionamento: Git/GitHub
   <div align="center">  
 
-  <img src="https://skillicons.dev/icons?i=vite,react,git,css,html,js,ts,mongo,nodejs,npm" />
+  <img src="https://skillicons.dev/icons?i=vite,react,git,css,html,js,ts,mongo,nodejs,npm,docker,python,django" />
 </div>
 
 ## Projetos  
