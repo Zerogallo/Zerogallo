@@ -15,6 +15,9 @@
   <div align="center">  
 
   <img src="https://skillicons.dev/icons?i=vite,react,git,css,html,js,ts,mongo,nodejs,npm,docker,python,django" />
+  <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=expo,c"
+    />
 </div>
 
 ## Projetos  
