@@ -5,7 +5,7 @@
 ### <div align="center">💻 | Desenvolvedor Full-Stack | Desenvolvedor Back-End | Desenvolvedor Front-End </div>  
 
 # Renan (ZeroGallo) | Transformando ideias em código
-- 🎓 Cursando Ciência da Computação  
+- 🎓 Ciência da Computação  
 - 💼 Buscando oportunidades em desenvolvimento web  
 - 📫 Contato: (21) 97274-5455 | renan.grenslist@gmail.com | www.linkedin.com/in/renan-ferreira-full-stack
 
