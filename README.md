@@ -21,7 +21,7 @@
 </div>
 
 ## Projetos  
-![Preview do Relógio](https://github.com/Zerogallo/NovoPortf-lio/blob/main/public/cad.PNG)
+![Preview do Relógio](https://github.com/Zerogallo/Portfolio-3.0/blob/main/src/assets/images/pl.png)
 - [Portfólio](https://zerogallo.github.io/NovoPortf-lio/)  
 - [Repositórios GitHub](https://github.com/Zerogallo)
 
