@@ -22,7 +22,7 @@
 
 ## Projetos  
 ![Preview do Relógio](https://github.com/Zerogallo/Portfolio-3.0/blob/main/src/assets/images/pl.png)
-- [Portfólio](https://zerogallo.github.io/NovoPortf-lio/)  
+- [Portfólio](https://zerogallo.github.io/Portfolio-3.0/)  
 - [Repositórios GitHub](https://github.com/Zerogallo)
 
 <div align="center">
