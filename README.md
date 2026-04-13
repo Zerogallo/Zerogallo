@@ -10,6 +10,7 @@
 
 
 
+
 ##  Tech Stack
 
 <div align="center">
@@ -50,7 +51,9 @@
 | ![GitHub followers](https://img.shields.io/github/followers/Zerogallo?style=for-the-badge&logo=github) | ![GitHub repo count](https://img.shields.io/badge/Repositórios-10+-blue?style=for-the-badge&logo=github) | ![Commits](https://img.shields.io/badge/Commits-500+-brightgreen?style=for-the-badge&logo=git) |
 
 </div>
+<br>
 
+![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=Zerogallo&theme=radical)
 
 
 
