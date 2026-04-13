@@ -6,9 +6,6 @@
 🎓 Ciência da Computação  
 📫 (21) 97274-5455 · [renan.grenslist@gmail.com](mailto:renan.grenslist@gmail.com) · [LinkedIn](https://www.linkedin.com/in/renan-ferreira-full-stack)
 
-</div>
-
-
 
 
 ##  Tech Stack
@@ -19,7 +16,20 @@
   <img src="https://skillicons.dev/icons?i=githubactions,aws,firebase,expo,figma,linux" />
 </div>
 <br>
-✔️ **Experiência com deploy e hospedagem:** [Render.com](https://render.com) (Web Services, Static Sites, PostgreSQL, cron jobs)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+</div>
+
+<div align="center">
+  
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange?style=flat&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-Associate-blue?style=flat&logo=docker)
+
+</div>
 
 
 ## 📌 Projetos em Destaque
