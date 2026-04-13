@@ -1,59 +1,74 @@
-
+<div align="center">
   
+#  Renan (ZeroGallo) | Full-Stack Developer
+  
+💻 **Desenvolvedor Full-Stack | Back-End | Front-End**  
+🎓 Ciência da Computação  
+📫 (21) 97274-5455 · [renan.grenslist@gmail.com](mailto:renan.grenslist@gmail.com) · [LinkedIn](https://www.linkedin.com/in/renan-ferreira-full-stack)
 
-
-### <div align="center">💻 | Desenvolvedor Full-Stack | Desenvolvedor Back-End | Desenvolvedor Front-End </div>  
-
-# Renan (ZeroGallo) | Transformando ideias em código
-- 🎓 Ciência da Computação  
-- 💼 Buscando oportunidades em desenvolvimento web  
-- 📫 Contato: (21) 97274-5455 | renan.grenslist@gmail.com | www.linkedin.com/in/renan-ferreira-full-stack
-
-## Habilidades  
-- JavaScript, HTML/CSS, React  
-- Versionamento: Git/GitHub
-  <div align="center">  
-
-  <img src="https://skillicons.dev/icons?i=vite,react,git,css,html,js,ts,mongo,nodejs,npm,docker,python,django" />
-  <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=expo,c"
-    />
 </div>
 
-## Projetos  
-![Preview do Relógio](https://github.com/Zerogallo/Portfolio-3.0/blob/main/src/assets/images/pl.png)
-- [Portfólio](https://zerogallo.github.io/Portfolio-3.0/)  
-- [Repositórios GitHub](https://github.com/Zerogallo)
+---
+
+##  Tech Stack
 
 <div align="center">
-<a href="https://github.com/Zerogallo" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,nodejs,express,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,c,html,css,tailwind,git,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=githubactions,aws,firebase,expo,figma,linux" />
+</div>
 
-<a href="https://www.linkedin.com/in/renan-ferreira-44b944311/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div> 
+---
+
+## 📌 Projetos em Destaque
+
+<div align="center">
+
+| Projeto | Tecnologias | Link |
+|---------|-------------|------|
+| 🧠 **Portfólio 3.0** | React, Vite, CSS Modules | [Acessar](https://zerogallo.github.io/Portfolio-3.0/) |
+| 📦 **Repositórios GitHub** | — | [Ver todos](https://github.com/Zerogallo?tab=repositories) |
+
+</div>
+
+> Em breve: aplicações com Docker + Django + React Native (Expo)
+
+---
+
+## 📊 Estatísticas do GitHub
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zerogallo&show_icons=true&theme=transparent" />
 
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerogallo&size_weight=0.5&count_weight=0.5&theme=transparent" />
-
-
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zerogallo&theme=radical" />
+</div>
+<div align="center">
   
-</p>  
+| Seguidores | Repositórios | Commits (aprox) |
+|------------|--------------|------------------|
+| ![GitHub followers](https://img.shields.io/github/followers/Zerogallo?style=for-the-badge&logo=github) | ![GitHub repo count](https://img.shields.io/badge/Repositórios-10+-blue?style=for-the-badge&logo=github) | ![Commits](https://img.shields.io/badge/Commits-500+-brightgreen?style=for-the-badge&logo=git) |
 
-<p align="center">
-  <img src="https://profile-readme-generator.com/assets/pacman.svg" />
- <img src="https://profile-readme-generator.com/assets/snake.svg" />
-  
-</p>  
+</div>
 
 
 
 
+## 🌐 Onde me encontrar
 
+<div align="center">
+  <a href="https://github.com/Zerogallo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/renan-ferreira-full-stack" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:renan.grenslist@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <i>“Transformando ideias em código – um commit por vez.”</i>
+</div>
