@@ -8,7 +8,7 @@
 
 </div>
 
----
+
 
 ##  Tech Stack
 
@@ -17,8 +17,9 @@
   <img src="https://skillicons.dev/icons?i=python,django,flask,c,html,css,tailwind,git,docker,kubernetes" />
   <img src="https://skillicons.dev/icons?i=githubactions,aws,firebase,expo,figma,linux" />
 </div>
+<br>
+✔️ **Experiência com deploy e hospedagem:** [Render.com](https://render.com) (Web Services, Static Sites, PostgreSQL, cron jobs)
 
----
 
 ## 📌 Projetos em Destaque
 
