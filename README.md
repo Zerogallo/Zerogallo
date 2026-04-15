@@ -41,6 +41,8 @@
 | 🧠 **Portfólio** | React, Vite, CSS Modules | [Acessar](https://portfoliorenanfullstack.onrender.com) |
 | 📦 **Repositórios GitHub** | — | [Ver todos](https://github.com/Zerogallo?tab=repositories) |
 
+  <img src="https://github.com/Zerogallo/PortfolioRenanFullStack/blob/main/public/app-renan.png" />
+  
 </div>
 
 
