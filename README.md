@@ -38,20 +38,20 @@
 
 | Projeto | Tecnologias | Link |
 |---------|-------------|------|
-| 🧠 **Portfólio 3.0** | React, Vite, CSS Modules | [Acessar](https://zerogallo.github.io/Portfolio-3.0/) |
+| 🧠 **Portfólio** | React, Vite, CSS Modules | [Acessar](https://portfoliorenanfullstack.onrender.com) |
 | 📦 **Repositórios GitHub** | — | [Ver todos](https://github.com/Zerogallo?tab=repositories) |
 
 </div>
 
-> Em breve: aplicações com Docker + Django + React Native (Expo)
 
----
 
 ## 📊 Estatísticas do GitHub
 
-
-
 <div align="center">
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=Zerogallo&show_icons=true&theme=radical&cache_seconds=1800)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Zerogallo&layout=compact&theme=radical&cache_seconds=1800)
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zerogallo&theme=radical" />
 </div>
 <div align="center">
