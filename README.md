@@ -40,7 +40,7 @@
 |---------|-------------|------|
 | 🧠 **Portfólio** | React, Vite, CSS Modules | [Acessar](https://portfoliorenanfullstack.onrender.com) |
 | 📦 **Repositórios GitHub** | — | [Ver todos](https://github.com/Zerogallo?tab=repositories) |
-| 👨‍💻 **Meu LinkedIn** | — | [Ver todos](www.linkedin.com/in/renan-ferreira-full-stack) |
+| 👨‍💻 **Meu LinkedIn** | — | [Ver todos](https://www.linkedin.com/in/renan-ferreira-full-stack) |
 
   <img src="https://github.com/Zerogallo/PortfolioRenanFullStack/blob/main/public/app-renan.png" />
   
