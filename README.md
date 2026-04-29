@@ -86,6 +86,21 @@
 
 ---
 
+
+## Estou disponível para novos desafios!
+
+Se você precisa de um desenvolvedor fullstack para:
+```bash
+· Projetos freelancers
+· Contratação PJ ou CLT
+· Consultoria ou mentoria em React / Node / NestJS
+```
+# Vamos conversar! 👇
+💬 Me chama no direct ou comenta que eu entro em contato.
+
+🔗 Repositório do projeto: [Acessar](https://portfoliorenanfullstack.onrender.com)
+👨‍💻 Meu LinkedIn: [Ver todos](www.linkedin.com/in/renan-ferreira-full-stack)
+
 <div align="center">
   <i>“Transformando ideias em código – um commit por vez.”</i>
 </div>
