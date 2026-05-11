@@ -52,8 +52,16 @@
 
 <div align="center">
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=Zerogallo&show_icons=true&theme=radical&cache_seconds=1800)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Zerogallo&layout=compact&theme=radical&cache_seconds=1800)
+
+  
+![Seguidores](https://img.shields.io/github/followers/Zerogallo?style=social)
+![Estrelas](https://img.shields.io/github/stars/Zerogallo?style=social)
+![Visitantes](https://komarev.com/ghpvc/?username=Zerogallo&color=blueviolet)
+
+
+  
+
+
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zerogallo&theme=radical" />
 </div>
